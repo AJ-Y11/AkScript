@@ -1,2 +1,0 @@
-# AkScript
-Programming Language
